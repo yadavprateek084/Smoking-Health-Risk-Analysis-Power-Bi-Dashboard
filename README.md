@@ -111,23 +111,6 @@ The dataset includes patient-level records with the following key attributes:
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository
-   ```bash
-   git clone https://github.com/your-username/smoking-health-risk-dashboard.git
-   ```
-
-2. Open `SmokingHealthRisk.pbix` in **Power BI Desktop** (free download from Microsoft)
-
-3. If prompted, update the data source path to point to `data/smoking_health_data.csv`
-
-4. Refresh the data and explore the dashboard
-
-> **Note:** Power BI Desktop is required to open `.pbix` files. Download it free at [powerbi.microsoft.com](https://powerbi.microsoft.com/desktop/)
-
----
-
 ## 💡 Use Cases
 
 - **Healthcare Analytics** — Understand organ-specific smoking risks across demographics
@@ -146,12 +129,3 @@ Data Analyst | Power BI Developer | Health Analytics Enthusiast
 - 💼 [Portfolio](https://your-portfolio.com)
 - 📧 your.email@gmail.com
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE) — feel free to use, fork, and build upon it.
-
----
-
-> ⭐ If you found this project useful or interesting, consider giving it a star — it helps others discover it!

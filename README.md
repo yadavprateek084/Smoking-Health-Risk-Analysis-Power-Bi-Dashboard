@@ -2,7 +2,7 @@
 
 > An interactive, multi-organ health analytics dashboard built in Power BI — visualizing the impact of smoking on organ health across age groups, genders, and smoking status categories.
 
-![Dashboard Preview](./preview.png)
+<img width="879" height="484" alt="Screenshot 2026-05-20 223722" src="https://github.com/user-attachments/assets/3ce3a5d0-6502-4deb-b225-39342f42f542" />
 
 ---
 

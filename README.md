@@ -116,7 +116,7 @@ The dataset includes patient-level records with the following key attributes:
 **[Your Name]**
 Data Analyst | Power BI Developer | Health Analytics Enthusiast
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🔗 [LinkedIn]( https://www.linkedin.com/in/prateek-yadav-408961277/)
 - 💼 [Portfolio](https://your-portfolio.com)
-- 📧 your.email@gmail.com
+- 📧 yadavprateek084@gmail.com
 

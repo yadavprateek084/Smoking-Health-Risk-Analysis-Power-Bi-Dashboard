@@ -30,24 +30,15 @@ It enables clinicians, researchers, and health analysts to toggle between **Dama
 
 ## 📸 Dashboard Previews
 
-<table>
-  <tr>
-    <td align="center"><b>Heart — Damaged</b></td>
-    <td align="center"><b>Heart — Healthy</b></td>
-  </tr>
-  <tr>
-    <td><img src="./screenshots/heart_damaged.png" width="400"/></td>
-    <td><img src="./screenshots/heart_healthy.png" width="400"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Lungs — Damaged</b></td>
-    <td align="center"><b>Human System — Damaged</b></td>
-  </tr>
-  <tr>
-    <td><img src="./screenshots/lungs_damaged.png" width="400"/></td>
-    <td><img src="./screenshots/human_damaged.png" width="400"/></td>
-  </tr>
-</table>
+<img width="884" height="495" alt="human_damaged" src="https://github.com/user-attachments/assets/8510dab2-5055-4b93-a7a6-d81126d70a91" />
+
+<img width="875" height="484" alt="lungs_damaged" src="https://github.com/user-attachments/assets/42cebbc4-b903-4065-9262-a104adcdca09" />
+
+<img width="873" height="490" alt="heart_healthy" src="https://github.com/user-attachments/assets/278aa1a3-b265-4b38-944b-30c0025549c2" />
+
+<img width="858" height="481" alt="heart_damaged" src="https://github.com/user-attachments/assets/0f0e6ab2-1e84-4e92-9779-a1de2246fe31" />
+
+<img width="879" height="484" alt="Screenshot 2026-05-20 223722" src="https://github.com/user-attachments/assets/1622914f-f92b-4358-96dd-e58b995ba43b" />
 
 ---
 
